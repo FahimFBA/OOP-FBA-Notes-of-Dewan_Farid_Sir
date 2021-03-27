@@ -1,5 +1,5 @@
 public class CastTest{
-    public static void main(String[] args){
+    public static void main(String[] args){ 
         long bigValue = 99L;
         int smallValue = (int) bigValue; // Casting
         System.out.println(smallValue);
