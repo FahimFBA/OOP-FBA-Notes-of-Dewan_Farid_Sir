@@ -6,7 +6,7 @@ public class AddNumbers{
         this.num1 = num1;
         this.num2 = num2;
     }
-
+ 
     public void add() {
         result = num1 + num2;
         System.out.println("Result is: " + result);
