@@ -1,6 +1,6 @@
 public class AddNumbers{
     private int num1, num2, result;
-
+ 
 
     public AddNumbers(int num1, int num2){
         this.num1 = num1;
