@@ -10,7 +10,7 @@ public class SwitchTest{
             default: System.out.println("WHITE");
         }
     }
-
+ 
     public static void main(String[] args){
         SwitchTest st = new SwitchTest();
         st.mySwitch(2);
