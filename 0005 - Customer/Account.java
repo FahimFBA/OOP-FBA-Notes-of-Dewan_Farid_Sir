@@ -1,5 +1,5 @@
 // package bankingPrj; // the name of the folder
-public class Account{
+public class Account{ 
     public String accountName = "Saving Account";
 
     public void showAccName() { // method
