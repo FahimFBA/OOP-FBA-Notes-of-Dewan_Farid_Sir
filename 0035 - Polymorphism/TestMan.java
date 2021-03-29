@@ -9,7 +9,7 @@ class SuperMan extends Man {
         System.out.println("Superman can fly");
     }
 }
-
+ 
 public class TestMan{
     public static void main(String[] args){
         Man m = new SuperMan(); // polymorphism
