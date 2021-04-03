@@ -4,6 +4,6 @@ public static TestHomogeneous {
 
     arr[0] = new TestHomogeneous();
     arr[1] = new TestHomogeneous();
-    arr[2] = new TestHomogeneous();
+    arr[2] = new TestHomogeneous(); 
   }
 }
