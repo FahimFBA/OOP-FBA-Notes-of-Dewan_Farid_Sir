@@ -27,11 +27,11 @@ public class FrameWithPanel implements WindowListener {
     }
 
     public void windowOpened(WindowEvent e){}
-    public void WindowIconified(WindowEvent e){}
-    public void WindowDeiconified(WindowEvent e){}
-    public void WindowClosed(WindowEvent e){}
-    public void WindowActivated(WindowEvent e){}
-    public void WindowDeactivated(WindowEvent e){}
+    public void windowIconified(WindowEvent e){}
+    public void windowDeiconified(WindowEvent e){}
+    public void windowClosed(WindowEvent e){}
+    public void windowActivated(WindowEvent e){}
+    public void windowDeactivated(WindowEvent e){}
 
     public static void main(String[] args){
         FrameWithPanel fp = new FrameWithPanel();
