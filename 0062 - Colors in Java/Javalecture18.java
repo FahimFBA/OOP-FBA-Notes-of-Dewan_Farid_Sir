@@ -10,7 +10,7 @@ public class JavaLecture18 implements WindowListener, ActionListener {
     private Menu m1, m2, m3;
     private MenuItem mi1_1 , mi1_2 , mi1_3, mi1_4, mi2_1, mi2_2;
     private TextField tf1,tf2,tf3;
-    private Button b1, b2, b3;
+    private Button b1, b2, b3; 
     
     public JavaLecture18(){
         f = new Frame("Welcome to Java GUI");
