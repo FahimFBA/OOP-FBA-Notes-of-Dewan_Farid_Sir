@@ -9,9 +9,9 @@ public class ThreadTest implements Runnable{
 
     public static void main(String[] args){
         ThreadTest t = new ThreadTest();
-        Thread thread1 = new Thread();
-        Thread thread2 = new Thread();
-        Thread thread3 = new Thread();
+        Thread thread1 = new Thread(t);
+        Thread thread2 = new Thread(t);
+        Thread thread3 = new Thread(t);
         thread1.start();
         thread2.start();
         thread3.start();
