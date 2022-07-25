@@ -1,5 +1,6 @@
-# 🎖️ OOP-FBA-Notes-of-Dewan_Farid_Sir
-### Contains everything I learned from Dewan Farid Sir. Follow the playlist: https://www.youtube.com/playlist?list=PLutHME8vSEnFYcunLwd61PDa7bNqx77m_
+# 🎖️ Notes of Object Oriented Programming using Java (Faculty: Dewan Md. Farid, *Professor of Computer Science, United International University*)
+
+### Contains everything I learned from Dewan Farid Sir. Follow the **Bengali** playlist from [here](https://www.youtube.com/playlist?list=PLutHME8vSEnFYcunLwd61PDa7bNqx77m_).
 
 
 
